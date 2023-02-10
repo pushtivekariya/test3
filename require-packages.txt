@@ -1,0 +1,5 @@
+npm i bootstrap
+ npm install react-slick --save
+ npm install animsition
+npm i react-router-dom@6
+
